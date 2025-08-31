@@ -35,7 +35,7 @@ Design a function that integrates HRV values and short text snippets into a cohe
 - `coherence_score.ipynb` — Core implementation of HRV + text scoring functions.  
 - `data_analysis.ipynb` — Exploratory analysis, visualizations, sensitivity checks.  
 
----
+
 
 ## Dependencies
 - Python 3.9+  
@@ -43,7 +43,7 @@ Design a function that integrates HRV values and short text snippets into a cohe
 - matplotlib, seaborn  
 - scikit-learn  
 - nltk / vaderSentiment 
-
+---
 ## Report
 Full write-up: [Notion Report](https://www.notion.so/Trial-Task-Report-Coherence-Scoring-Prototype-23f252ec466e8026b7b6dbe1e8101a2a)
 
