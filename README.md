@@ -31,72 +31,9 @@ Design a function that integrates HRV values and short text snippets into a cohe
 
 ---
 
-## Methods
-
-### Coherence Score Formula
-We use a **linear combination** of HRV-based score ($S_{HRV}$) and text-based score ($S_{Text}$):
-
-$$
-S_{coherence} = w \cdot S_{HRV} + (1-w) \cdot S_{Text}
-$$
-
-where $w=0.8$ reflects stronger trust in physiological signals.
-
----
-
-### HRV Score
-- HRV is normalized relative to baseline.  
-- To model tolerance for small deviations, a **power function** is applied: small differences give minor penalties, large differences accelerate toward zero.  
-- Parameters $(\tau, p, q)$ control tolerance and penalty intensity. For example, $\tau=0.5$ (50% drift threshold), $p=q=2$.  
-
----
-
-### Text Score
-- Implemented via **VADER sentiment analysis** (compound score ∈ [-1,1] mapped to [0,100]).  
-- Augmented with a **keyword dictionary** (confidence vs. uncertainty words). Each match adjusts score by ±2 points.  
-- Lightweight and interpretable. In future, can be extended to BERT/LLM methods.
-
----
-
-## Results
-
-### Data Analysis
-- Small dataset, HRV differences generally <20%.  
-- Text snippets are short, supporting the lightweight approach.  
-- Visualizations show HRV distribution, parameter sensitivity, and coherence score distributions.  
-
-### Coherence Scoring
-- Weighted fusion: $w=0.8$ for HRV, $0.2$ for text.  
-- Demonstrated on example case: HRV 65 vs. baseline 75 + “nervous” → moderate coherence.  
-- Applied to dataset with visualizations and explanations.  
-
----
-
-## Discussion
-
-- Current prototype is subjective due to limited dataset and lack of medical theory grounding.  
-- Provides a **transparent baseline model**.  
-- Future extensions:  
-  - **BERT** sentence embeddings ([CLS] vector) for richer text features.  
-  - **LLM few-shot prompting** for scoring with natural-language explanations.  
-
----
-
 ## Repository Structure
 - `coherence_score.ipynb` — Core implementation of HRV + text scoring functions.  
 - `data_analysis.ipynb` — Exploratory analysis, visualizations, sensitivity checks.  
-
----
-
-## Usage
-
-Clone the repo and run the notebooks:
-
-```bash
-git clone https://github.com/your-username/Coherence-Scoring-Prototype.git
-cd Coherence-Scoring-Prototype
-jupyter notebook
-```
 
 ---
 
@@ -105,20 +42,9 @@ jupyter notebook
 - pandas, numpy  
 - matplotlib, seaborn  
 - scikit-learn  
-- nltk / vaderSentiment  
-- transformers (optional, for BERT extension)  
-
-Install:
-```bash
-pip install -r requirements.txt
-```
-
----
+- nltk / vaderSentiment 
 
 ## Report
 Full write-up: [Notion Report](https://www.notion.so/Trial-Task-Report-Coherence-Scoring-Prototype-23f252ec466e8026b7b6dbe1e8101a2a)
 
 ---
-
-## License
-MIT License. See `LICENSE` for details.
