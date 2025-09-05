@@ -1,0 +1,602 @@
+[
+  {
+    "timestamp": "2025-09-04T10:00:00Z",
+    "baseline_hrv": 70,
+    "hrv": 84,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T10:05:00Z",
+    "baseline_hrv": 70,
+    "hrv": 73,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T10:10:00Z",
+    "baseline_hrv": 80,
+    "hrv": 71,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T10:15:00Z",
+    "baseline_hrv": 70,
+    "hrv": 76,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T10:20:00Z",
+    "baseline_hrv": 79,
+    "hrv": 83,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T10:25:00Z",
+    "baseline_hrv": 83,
+    "hrv": 84,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T10:30:00Z",
+    "baseline_hrv": 82,
+    "hrv": 74,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T10:35:00Z",
+    "baseline_hrv": 76,
+    "hrv": 89,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T10:40:00Z",
+    "baseline_hrv": 77,
+    "hrv": 81,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T10:45:00Z",
+    "baseline_hrv": 68,
+    "hrv": 63,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T10:50:00Z",
+    "baseline_hrv": 69,
+    "hrv": 67,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T10:55:00Z",
+    "baseline_hrv": 81,
+    "hrv": 86,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T11:00:00Z",
+    "baseline_hrv": 79,
+    "hrv": 85,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T11:05:00Z",
+    "baseline_hrv": 84,
+    "hrv": 75,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T11:10:00Z",
+    "baseline_hrv": 70,
+    "hrv": 64,
+    "text": "This feels overwhelming but manageable."
+  },
+  {
+    "timestamp": "2025-09-04T11:15:00Z",
+    "baseline_hrv": 84,
+    "hrv": 93,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T11:20:00Z",
+    "baseline_hrv": 77,
+    "hrv": 81,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T11:25:00Z",
+    "baseline_hrv": 74,
+    "hrv": 71,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T11:30:00Z",
+    "baseline_hrv": 67,
+    "hrv": 77,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T11:35:00Z",
+    "baseline_hrv": 68,
+    "hrv": 72,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T11:40:00Z",
+    "baseline_hrv": 72,
+    "hrv": 67,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T11:45:00Z",
+    "baseline_hrv": 71,
+    "hrv": 81,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T11:50:00Z",
+    "baseline_hrv": 83,
+    "hrv": 93,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T11:55:00Z",
+    "baseline_hrv": 77,
+    "hrv": 82,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T12:00:00Z",
+    "baseline_hrv": 85,
+    "hrv": 90,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T12:05:00Z",
+    "baseline_hrv": 66,
+    "hrv": 74,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T12:10:00Z",
+    "baseline_hrv": 77,
+    "hrv": 89,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T12:15:00Z",
+    "baseline_hrv": 84,
+    "hrv": 91,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T12:20:00Z",
+    "baseline_hrv": 76,
+    "hrv": 91,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T12:25:00Z",
+    "baseline_hrv": 70,
+    "hrv": 79,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T12:30:00Z",
+    "baseline_hrv": 83,
+    "hrv": 98,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T12:35:00Z",
+    "baseline_hrv": 71,
+    "hrv": 83,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T12:40:00Z",
+    "baseline_hrv": 75,
+    "hrv": 70,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T12:45:00Z",
+    "baseline_hrv": 76,
+    "hrv": 67,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T12:50:00Z",
+    "baseline_hrv": 81,
+    "hrv": 80,
+    "text": "This feels overwhelming but manageable."
+  },
+  {
+    "timestamp": "2025-09-04T12:55:00Z",
+    "baseline_hrv": 81,
+    "hrv": 95,
+    "text": "This feels overwhelming but manageable."
+  },
+  {
+    "timestamp": "2025-09-04T13:00:00Z",
+    "baseline_hrv": 82,
+    "hrv": 83,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T13:05:00Z",
+    "baseline_hrv": 72,
+    "hrv": 66,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T13:10:00Z",
+    "baseline_hrv": 78,
+    "hrv": 86,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T13:15:00Z",
+    "baseline_hrv": 69,
+    "hrv": 64,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T13:20:00Z",
+    "baseline_hrv": 67,
+    "hrv": 59,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T13:25:00Z",
+    "baseline_hrv": 67,
+    "hrv": 53,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T13:30:00Z",
+    "baseline_hrv": 77,
+    "hrv": 82,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T13:35:00Z",
+    "baseline_hrv": 69,
+    "hrv": 74,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T13:40:00Z",
+    "baseline_hrv": 70,
+    "hrv": 67,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T13:45:00Z",
+    "baseline_hrv": 73,
+    "hrv": 83,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T13:50:00Z",
+    "baseline_hrv": 68,
+    "hrv": 75,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T13:55:00Z",
+    "baseline_hrv": 70,
+    "hrv": 68,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T14:00:00Z",
+    "baseline_hrv": 83,
+    "hrv": 77,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T14:05:00Z",
+    "baseline_hrv": 85,
+    "hrv": 73,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T14:10:00Z",
+    "baseline_hrv": 76,
+    "hrv": 76,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T14:15:00Z",
+    "baseline_hrv": 74,
+    "hrv": 86,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T14:20:00Z",
+    "baseline_hrv": 84,
+    "hrv": 80,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T14:25:00Z",
+    "baseline_hrv": 81,
+    "hrv": 93,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T14:30:00Z",
+    "baseline_hrv": 75,
+    "hrv": 84,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T14:35:00Z",
+    "baseline_hrv": 66,
+    "hrv": 63,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T14:40:00Z",
+    "baseline_hrv": 73,
+    "hrv": 70,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T14:45:00Z",
+    "baseline_hrv": 75,
+    "hrv": 70,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T14:50:00Z",
+    "baseline_hrv": 76,
+    "hrv": 71,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T14:55:00Z",
+    "baseline_hrv": 78,
+    "hrv": 80,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T15:00:00Z",
+    "baseline_hrv": 76,
+    "hrv": 91,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T15:05:00Z",
+    "baseline_hrv": 72,
+    "hrv": 79,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T15:10:00Z",
+    "baseline_hrv": 81,
+    "hrv": 81,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T15:15:00Z",
+    "baseline_hrv": 79,
+    "hrv": 93,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T15:20:00Z",
+    "baseline_hrv": 79,
+    "hrv": 80,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T15:25:00Z",
+    "baseline_hrv": 67,
+    "hrv": 73,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T15:30:00Z",
+    "baseline_hrv": 72,
+    "hrv": 65,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T15:35:00Z",
+    "baseline_hrv": 67,
+    "hrv": 81,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T15:40:00Z",
+    "baseline_hrv": 67,
+    "hrv": 63,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T15:45:00Z",
+    "baseline_hrv": 67,
+    "hrv": 80,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T15:50:00Z",
+    "baseline_hrv": 83,
+    "hrv": 72,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T15:55:00Z",
+    "baseline_hrv": 71,
+    "hrv": 58,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T16:00:00Z",
+    "baseline_hrv": 69,
+    "hrv": 64,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T16:05:00Z",
+    "baseline_hrv": 77,
+    "hrv": 68,
+    "text": "I feel fully in control at the moment."
+  },
+  {
+    "timestamp": "2025-09-04T16:10:00Z",
+    "baseline_hrv": 67,
+    "hrv": 74,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T16:15:00Z",
+    "baseline_hrv": 82,
+    "hrv": 95,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T16:20:00Z",
+    "baseline_hrv": 75,
+    "hrv": 88,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T16:25:00Z",
+    "baseline_hrv": 72,
+    "hrv": 63,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T16:30:00Z",
+    "baseline_hrv": 71,
+    "hrv": 82,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T16:35:00Z",
+    "baseline_hrv": 70,
+    "hrv": 66,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T16:40:00Z",
+    "baseline_hrv": 76,
+    "hrv": 86,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T16:45:00Z",
+    "baseline_hrv": 83,
+    "hrv": 92,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T16:50:00Z",
+    "baseline_hrv": 68,
+    "hrv": 73,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T16:55:00Z",
+    "baseline_hrv": 77,
+    "hrv": 74,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T17:00:00Z",
+    "baseline_hrv": 83,
+    "hrv": 86,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T17:05:00Z",
+    "baseline_hrv": 65,
+    "hrv": 58,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T17:10:00Z",
+    "baseline_hrv": 78,
+    "hrv": 63,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T17:15:00Z",
+    "baseline_hrv": 76,
+    "hrv": 77,
+    "text": "I feel calm and collected right now."
+  },
+  {
+    "timestamp": "2025-09-04T17:20:00Z",
+    "baseline_hrv": 75,
+    "hrv": 64,
+    "text": "I need to take a step back and breathe."
+  },
+  {
+    "timestamp": "2025-09-04T17:25:00Z",
+    "baseline_hrv": 75,
+    "hrv": 69,
+    "text": "This feels overwhelming but manageable."
+  },
+  {
+    "timestamp": "2025-09-04T17:30:00Z",
+    "baseline_hrv": 80,
+    "hrv": 72,
+    "text": "I think we are making good progress."
+  },
+  {
+    "timestamp": "2025-09-04T17:35:00Z",
+    "baseline_hrv": 79,
+    "hrv": 89,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T17:40:00Z",
+    "baseline_hrv": 74,
+    "hrv": 59,
+    "text": "There is some doubt in my mind."
+  },
+  {
+    "timestamp": "2025-09-04T17:45:00Z",
+    "baseline_hrv": 65,
+    "hrv": 72,
+    "text": "I\u2019m not sure if this is sustainable."
+  },
+  {
+    "timestamp": "2025-09-04T17:50:00Z",
+    "baseline_hrv": 81,
+    "hrv": 81,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T17:55:00Z",
+    "baseline_hrv": 81,
+    "hrv": 91,
+    "text": "This situation is stressing me out."
+  },
+  {
+    "timestamp": "2025-09-04T18:00:00Z",
+    "baseline_hrv": 79,
+    "hrv": 85,
+    "text": "I feel excited about the outcome."
+  },
+  {
+    "timestamp": "2025-09-04T18:05:00Z",
+    "baseline_hrv": 76,
+    "hrv": 82,
+    "text": "This feels overwhelming but manageable."
+  },
+  {
+    "timestamp": "2025-09-04T18:10:00Z",
+    "baseline_hrv": 77,
+    "hrv": 84,
+    "text": "I am confident we can finish this task."
+  },
+  {
+    "timestamp": "2025-09-04T18:15:00Z",
+    "baseline_hrv": 82,
+    "hrv": 81,
+    "text": "This feels overwhelming but manageable."
+  }
+]
